@@ -1,0 +1,15 @@
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\bin\Debug\net6.0\oopsprogramday2.exe
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\bin\Debug\net6.0\oopsprogramday2.deps.json
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\bin\Debug\net6.0\oopsprogramday2.runtimeconfig.json
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\bin\Debug\net6.0\oopsprogramday2.dll
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\bin\Debug\net6.0\oopsprogramday2.pdb
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\oopsprogramday2.csproj.AssemblyReference.cache
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\oopsprogramday2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\oopsprogramday2.AssemblyInfoInputs.cache
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\oopsprogramday2.AssemblyInfo.cs
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\oopsprogramday2.csproj.CoreCompileInputs.cache
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\oopsprogramday2.dll
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\refint\oopsprogramday2.dll
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\oopsprogramday2.pdb
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\oopsprogramday2.genruntimeconfig.cache
+C:\Users\Sukanay\source\repos\oopsprogramday2\oopsprogramday2\obj\Debug\net6.0\ref\oopsprogramday2.dll
