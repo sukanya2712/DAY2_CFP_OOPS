@@ -27,7 +27,7 @@ namespace oopsprogramday2
             //myTeacher.Explain();
 
 
-            //problem2
+            //problem2:::
 
             PhotoAlbum album1 = new PhotoAlbum();
             Console.WriteLine("Album 1 pages: " + album1.GetNumberOfPages());
